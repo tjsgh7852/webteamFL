@@ -365,13 +365,7 @@ section{
 	min-height: 659px;
 }
 .header3{
-	background-image: url(#);
-	height: 100vh;
-	position: relative;
-	min-height: 659px;
-}
-.header4{
-	background-image: url(#);
+	background-image: url(../images/main1.jpg);
 	height: 100vh;
 	position: relative;
 	min-height: 659px;
@@ -406,12 +400,14 @@ section{
 	color: #fff;
 	letter-spacing: 2px;
 }
-.header4 h1, .header4 p{
-	color: #fff;
-	letter-spacing: 2px;
-}
+
 .header p{
 	font-size: 32px;
+	padding-top: 0;
+	padding-bottom: 40px;
+}
+.header3 p{
+	font-size: 50px;
 	padding-top: 0;
 	padding-bottom: 40px;
 }
